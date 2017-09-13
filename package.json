@@ -1,0 +1,23 @@
+{
+  "name": "starwar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm server_js.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxon2009/StarWar1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daxon2009/StarWar1/issues"
+  },
+  "homepage": "https://github.com/daxon2009/StarWar1#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
